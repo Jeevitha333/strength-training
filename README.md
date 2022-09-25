@@ -1,4 +1,4 @@
-gym management system
+Strength Training system
 ===================
 
 Strength Training System
