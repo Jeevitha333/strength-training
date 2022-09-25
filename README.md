@@ -1,4 +1,16 @@
-# strength-training
-my first repository on github
-![4](https://user-images.githubusercontent.com/114340091/192141173-55c31b00-e46a-4dc2-b6c0-34e6d805fd25.jpg)
-http://localhost:8080/
+gym management system
+===================
+
+Gym Management System
+
+This the my gym management system it is made using PHP,CSS,HTML,Jquery,Twitter Bootstrap.
+All sql table info can be found in table.sql.
+
+
+more free projects
+
+click here - https://projectworlds.in
+
+
+YouTube Demo - https://youtu.be/J_7G_AahgSw
+
